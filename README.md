@@ -2,7 +2,7 @@
 
 Zoom clone
 
-socket.io
+express + socket.io
 
 Webrtc (Video & Audio)
 
