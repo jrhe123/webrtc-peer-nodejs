@@ -6,4 +6,4 @@ express + socket.io
 
 Webrtc (Video & Audio)
 
-Messenger
+ejs frontend + Messenger
