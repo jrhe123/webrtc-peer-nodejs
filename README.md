@@ -2,6 +2,8 @@
 
 Zoom clone
 
-Webrtc
+socket.io
+
+Webrtc (Video & Audio)
 
 Messenger
